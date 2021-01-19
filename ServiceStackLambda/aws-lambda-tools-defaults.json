@@ -10,7 +10,7 @@
   "package-type" : "image",
   "function-name": "ServiceStackLambda",
   "stack-name"   : "ServiceStackLambda",
-  "s3-bucket"    : "<YOUR-S3-BUCKET>",
+  "s3-bucket"    : "layoric-us-east-deploy",
   "configuration" : "Release",
   "s3-prefix"     : "ServiceStackLambda/",
   "template"      : "serverless.template",
